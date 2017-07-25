@@ -1,0 +1,5 @@
+{
+  "test_listOwnerByHouseId.py::TestListOwnew::()::test_listbyhouseidno": true,
+  "test_listPageByParentId.py::TestListPageByParentId::()::test_listPageByParentId": true,
+  "test_refreshUserIdentity.py::TestRefreshUser::()::test_refreshuser": true
+}
